@@ -1,0 +1,40 @@
+{
+    "task": [
+    {
+      "id": 1,
+      "title": "uploadfile", 
+      "description": "Task 1", 
+      "status": "pendeing",
+      "due_data": "2024-03-03",
+      "priority":{
+        "level": "high",
+        "color": "red"
+      }
+
+    },
+    {
+      "id": 2,
+      "title": "uploadfile", 
+      "description": "Task 1", 
+      "status": "pendeing",
+      "due_data": "2024-03-03",
+      "priority":{
+        "level": "meduim",
+        "color": "yellow"
+      } 
+    },
+    {
+      "id": 3,
+      "title": "uploadfile", 
+      "description": "Task 1", 
+      "status": "pendeing",
+      "due_data": "2024-03-03",
+      "priority":{
+        "level": "low",
+        "color": "green"
+      }
+            
+    }
+
+  ]
+}
