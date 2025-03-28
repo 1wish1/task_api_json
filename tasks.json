@@ -1,40 +1,22 @@
 {
     "task": [
-    {
-      "id": 1,
-      "title": "uploadfile", 
-      "description": "Task 1", 
-      "status": "pendeing",
-      "due_data": "2024-03-03",
-      "priority":{
-        "level": "high",
-        "color": "red"
-      }
-
-    },
-    {
-      "id": 2,
-      "title": "uploadfile", 
-      "description": "Task 1", 
-      "status": "pendeing",
-      "due_data": "2024-03-03",
-      "priority":{
-        "level": "meduim",
-        "color": "yellow"
-      } 
-    },
-    {
-      "id": 3,
-      "title": "uploadfile", 
-      "description": "Task 1", 
-      "status": "pendeing",
-      "due_data": "2024-03-03",
-      "priority":{
-        "level": "low",
-        "color": "green"
-      }
-            
-    }
-
-  ]
+        {
+            "id": 1,
+            "category": "asd",
+            "title": "asd",
+            "priority": "High",
+            "description": "asdadsa",
+            "status": "Pending",
+            "duedate": "2025-03-25 00:00:00.000"
+        },
+        {
+            "id": 2,
+            "category": "asdasd",
+            "title": "asdasd",
+            "priority": "Low",
+            "description": "asdasdasdc",
+            "status": "Pending",
+            "duedate": "2025-03-04 00:00:00.000"
+        }
+    ]
 }
